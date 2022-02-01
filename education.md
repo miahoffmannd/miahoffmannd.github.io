@@ -16,4 +16,4 @@ Mechanical Engineering <br>
 Minor in Bioengineering | Undergraduate Thesis <br>
 Advisor: Maria Holland <br>
 
-<img src="/_images/Graduation_picture1.jp" alt="Mia wearing a white dress and graduation stoles in front of the University of Notre Dame's Golden Dome on a cloudy day." width="400" height="600">
+<img src="/_images/Graduation_picture1.jpg" alt="Mia wearing a white dress and graduation stoles in front of the University of Notre Dame's Golden Dome on a cloudy day." width="400" height="600">
