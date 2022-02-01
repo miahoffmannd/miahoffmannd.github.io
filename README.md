@@ -1,7 +1,2 @@
----
-layout: page
-heading: Home
----
-
-# miahoffman.github.io
-Mia Hoffman's Personal Website
+# Mia Hoffman
+Welcome to Mia's personal website.
