@@ -3,13 +3,13 @@ layout: page
 title: Education
 ---
 
-# University of Washington
-PhD
-Mechanical Engineering
-Co-Advisors: Kat Steele and Heather Feldner
+# University of Washington <br>
+PhD <br>
+Mechanical Engineering <br>
+Co-Advisors: Kat Steele and Heather Feldner <br>
 
-# University of Notre Dame
-BS
-Mechanical Engineering
-Minor in Bioengineering | Undergraduate Thesis
-Advisor: Maria Holland
+# University of Notre Dame <br>
+BS <br>
+Mechanical Engineering <br>
+Minor in Bioengineering | Undergraduate Thesis <br>
+Advisor: Maria Holland <br>
