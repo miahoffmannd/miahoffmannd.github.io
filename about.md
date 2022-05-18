@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+filename: about.md
 ---
 
 # About Mia
