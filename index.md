@@ -9,11 +9,12 @@ layout: default
 I am a second year PhD student in Mechanical Engineering at the University of Washington.
 
 
-## Research Interest
+## Research Interests
 1. Early Mobility
 2. Accessible Play Technologies
 3. Environmental Accessibility
 
+---
 ## Publications
 
 1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” _Submitted._
