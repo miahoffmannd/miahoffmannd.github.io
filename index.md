@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="headshot-June-2022.jpg">
+<img class="profile-picture" src="headshot-June-2022.jpg" alt = "Mia Hoffman" width = "200"/>
 
 I am a second year PhD student in Mechanical Engineering at the University of Washington.
 
