@@ -16,11 +16,13 @@ I am a second year PhD student in Mechanical Engineering at the University of Wa
 
 ## Publications
 
-1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” Submitted.
+1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” _Submitted._
 2. **Hoffman, Mia E.**, Katherine M. Steele, Kyle N. Winfree, and Heather A. Feldner.  “The Impact of the Built Environment on Early Power Mobility Access.” UrbanAccess’22 Workshop at ASSETS. [link](https://accessiblecities.github.io/UrbanAccess2022/#accepted-papers)
-3. Demirci, Nagehan, **Mia E. Hoffman**, and Maria A. Holland. “Systematic cortical thickness patterns in primates suggest a universal physical law of folding.” Submitted.
+3. Demirci, Nagehan, **Mia E. Hoffman**, and Maria A. Holland. “Systematic cortical thickness patterns in primates suggest a universal physical law of folding.” _Submitted._
 4. Darayi, Mohsen, **Mia E. Hoffman**, John Sayut, Shuolun Wang, Nagehan Demirci, Jack Consolini, and Maria A. Holland. 2021. “Computational Models of Cortical Folding: A Review of Common Approaches.” Journal of Biomechanics. 2021. [link](https://doi.org/10.1016/j.jbiomech.2021.110851)
 
+## Research Experience
+Sep 2021 - present | Biomechanics & Accessibility <br> Ability & Innovation Lab, University of Washington <br> Co-advisor: Katherine M. Steele <br> IMPACT Collaboratory, University of Washington <br> Co-advisor: Heather A. Feldner <br> Mobility and accessible play technology for young children
 
 
 ## Typography
