@@ -1,0 +1,19 @@
+title: Mia Hoffman
+descrition: 
+url: "https://miahoffmannd.github.io"
+baseurl: 
+
+markdown: kramdown
+
+
+footer: no
+footer_url: "https://github.com/miahoffmannd"
+footer_text: "Page design by Mia Hoffman"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "CV"
+   link: "Hoffman_Mia_CV.pdf"
