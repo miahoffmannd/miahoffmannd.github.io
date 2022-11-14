@@ -24,7 +24,7 @@ I am a second year PhD student in Mechanical Engineering at the University of Wa
 ---
 ## Research Experience
 #### Biomechanics & Accessibility | Ability & Innovation Lab, University of Washington | IMPACT Collaboratory, University of Washington
-- **Co-advisors: ** [Kat M. Steele](https://www.me.washington.edu/facultyfinder/kat-m-steele) and [Heather A. Feldner](https://impactco.rehab.washington.edu/team/heather-feldner/)
+- **Co-advisors:** [Kat M. Steele](https://www.me.washington.edu/facultyfinder/kat-m-steele) and [Heather A. Feldner](https://impactco.rehab.washington.edu/team/heather-feldner/)
 
 
 #### Medical Imaging & Solid Mechanics | CoMMaND Lab, University of Notre Dame 
