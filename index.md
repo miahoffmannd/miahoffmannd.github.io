@@ -23,6 +23,7 @@ I am a second year PhD student in Mechanical Engineering at the University of Wa
 
 ## Research Experience
 Sep 2021 - present | Biomechanics & Accessibility <br> Ability & Innovation Lab, University of Washington <br> Co-advisor: Katherine M. Steele <br> IMPACT Collaboratory, University of Washington <br> Co-advisor: Heather A. Feldner <br> Mobility and accessible play technology for young children
+Aug 2018 – May 2021 | Medical Imaging & Solid Mechanics <br> CoMMaND Lab, University of Notre Dame
 
 
 ## Typography
