@@ -22,8 +22,8 @@ I am a second year PhD student in Mechanical Engineering at the University of Wa
 4. Darayi, Mohsen, **Mia E. Hoffman**, John Sayut, Shuolun Wang, Nagehan Demirci, Jack Consolini, and Maria A. Holland. 2021. “Computational Models of Cortical Folding: A Review of Common Approaches.” Journal of Biomechanics. 2021. [link](https://doi.org/10.1016/j.jbiomech.2021.110851)
 
 ## Research Experience
-Sep 2021 - present | Biomechanics & Accessibility <br> Ability & Innovation Lab, University of Washington <br> 
-Aug 2018 – May 2021 | Medical Imaging & Solid Mechanics <br> CoMMaND Lab, University of Notre Dame
+Sep 2021 - present | Biomechanics & Accessibility <br> Ability & Innovation Lab, University of Washington <br> |
+Aug 2018 – May 2021 | Medical Imaging & Solid Mechanics <br> CoMMaND Lab, University of Notre Dame |
 
 
 ## Typography
