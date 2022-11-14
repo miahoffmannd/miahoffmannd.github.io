@@ -29,7 +29,7 @@ I am a second year PhD student in Mechanical Engineering at the University of Wa
 
 
 #### Medical Imaging & Solid Mechanics | CoMMaND Lab, University of Notre Dame 
-- **Advisor:** [Maria A. Holland])(https://engineering.nd.edu/faculty/maria-holland/)
+- **Advisor:** [Maria A. Holland](https://engineering.nd.edu/faculty/maria-holland/)
 
 #### Auditory Neuroscience & MRI | Auditory Perception and Cognition Lab, University of Minnesota
 - **Advisor:** [Andrew Oxenham](https://med.umn.edu/bio/ent-faculty/andrew-oxenham)
