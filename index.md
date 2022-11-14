@@ -21,35 +21,24 @@ I am a second year PhD student in Mechanical Engineering at the University of Wa
 3. Demirci, Nagehan, **Mia E. Hoffman**, and Maria A. Holland. “Systematic cortical thickness patterns in primates suggest a universal physical law of folding.” _Submitted._
 4. Darayi, Mohsen, **Mia E. Hoffman**, John Sayut, Shuolun Wang, Nagehan Demirci, Jack Consolini, and Maria A. Holland. 2021. “Computational Models of Cortical Folding: A Review of Common Approaches.” Journal of Biomechanics. 2021. [link](https://doi.org/10.1016/j.jbiomech.2021.110851)
 
+---
 ## Research Experience
 #### Biomechanics & Accessibility | Ability & Innovation Lab, University of Washington | IMPACT Collaboratory, University of Washington
-- **Co-advisors: ** Kat M. Steele(https://www.me.washington.edu/facultyfinder/kat-m-steele) and Heather Feldner(https://impactco.rehab.washington.edu/team/heather-feldner/)
+- **Co-advisors: ** [Kat M. Steele](https://www.me.washington.edu/facultyfinder/kat-m-steele) and [Heather A. Feldner](https://impactco.rehab.washington.edu/team/heather-feldner/)
 
 
 #### Medical Imaging & Solid Mechanics | CoMMaND Lab, University of Notre Dame 
+- **Advisor:** [Maria A. Holland])(https://engineering.nd.edu/faculty/maria-holland/)
 
+#### Auditory Neuroscience & MRI | Auditory Perception and Cognition Lab, University of Minnesota
+- **Advisor:** [Andrew Oxenham](https://med.umn.edu/bio/ent-faculty/andrew-oxenham)
 
-## Typography
+#### Auditory Neuroscience & Signal Processing | Carney Lab, University of Rochester
+- Advisor: [Laurel H. Carney](https://www.urmc.rochester.edu/people/27094648-laurel-h-carney)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+#### Data-Driven Methods | Battelle Center for Mathematical Medicine, Nationwide Children's Hospital
+- Advisor: [William C. Ray](https://pediatricsnationwide.org/2022/02/09/featured-researcher-will-ray/)
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
 
 ---
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+> The future is accessible.
