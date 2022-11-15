@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="headshot-June-2022.jpg" alt = "Mia Hoffman" width = "200"/>
 
-I am a second year PhD student in Mechanical Engineering at the University of Washington.
-
+Mia Hoffman is a second-year Ph.D. Student in the Department of Mechanical Engineering at the University of Washington, and a student member of the Center for Research and Education on Accessible Technology and Experiences (CREATE) at the University of Washington. Her research is focused on mobility and accessible play technologies for young kids with disabilities. She wants ``kids to just be kids" exploring the world around them, and not be tied up in the fight for disability justice. 
 
 ## Research Interests
 1. Early Mobility
