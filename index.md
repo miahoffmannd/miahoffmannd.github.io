@@ -49,18 +49,19 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 
 ---
 ## Academia Outside of the Lab
-1. HuskyADAPT [[link]](https://depts.washington.edu/adaptuw/)
+#### University of Washington
+##### HuskyADAPT [[link]](https://depts.washington.edu/adaptuw/)
 - Design Chair 
 - GoBabyGo UW Leadership Team
-2. Mechanical Engineering Graduate Student Association [[link]](https://www.me.washington.edu/gsa)
+##### Mechanical Engineering Graduate Student Association [[link]](https://www.me.washington.edu/gsa)
 - Social Chair
-3. Enable ND [[link]](https://sites.google.com/a/nd.edu/enable-nd/home)
+#### University of Notre Dame
+##### Enable ND [[link]](https://sites.google.com/a/nd.edu/enable-nd/home)
 - President
 - Vice-President
 - Director of Research and Development
-4. AccessABLE [[link]](https://www.instagram.com/ndaccess_able/)
-- Member 
-5. Society of Women Engineers, University of Notre Dame and University of Washington
+##### AccessABLE [[link]](https://www.instagram.com/ndaccess_able/)
+##### Society of Women Engineers
 - Director of Diversity
 - Director of Outreach
 
