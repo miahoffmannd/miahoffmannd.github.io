@@ -41,10 +41,10 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 
 ---
 ### Highlighted Honors
-- 2022 NextProf Pathfinder Workshop, Oct 2-4, 2022, San Diego, CA [link](https://jacobsschool.ucsd.edu/news/release/3524)
+- 2022 NextProf Pathfinder Workshop, Oct 2-4, 2022, San Diego, CA [[link]](https://jacobsschool.ucsd.edu/news/release/3524)
 - Honorable Mention for Accessibility, CREATE Accessible and Inclusive Textiles Hackfest 
 - Bioengineering Outstanding Undergraduate Researcher Award, University of Notre Dame
-- National Science Foundation Graduate Research Fellowship [link](https://engineering.nd.edu/news/engineering-students-receive-2021-nsf-graduate-research-fellowships/)
-- Glenna R. Joyce Merit Scholarship, University of Notre Dame [link](https://scholars.nd.edu/awards/list-of-awards/glenna-r-joyce-scholarship/)
+- National Science Foundation Graduate Research Fellowship [[link]](https://engineering.nd.edu/news/engineering-students-receive-2021-nsf-graduate-research-fellowships/)
+- Glenna R. Joyce Merit Scholarship, University of Notre Dame [[link]](https://scholars.nd.edu/awards/list-of-awards/glenna-r-joyce-scholarship/)
 ---
 > The future is accessible.
