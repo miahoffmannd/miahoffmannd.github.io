@@ -40,11 +40,29 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 - Advisor: [William C. Ray](https://pediatricsnationwide.org/2022/02/09/featured-researcher-will-ray/)
 
 ---
-### Highlighted Honors
+## Highlighted Honors
 - 2022 NextProf Pathfinder Workshop, Oct 2-4, 2022, San Diego, CA [[link]](https://jacobsschool.ucsd.edu/news/release/3524)
 - Honorable Mention for Accessibility, CREATE Accessible and Inclusive Textiles Hackfest 
 - Bioengineering Outstanding Undergraduate Researcher Award, University of Notre Dame
 - National Science Foundation Graduate Research Fellowship [[link]](https://engineering.nd.edu/news/engineering-students-receive-2021-nsf-graduate-research-fellowships/)
 - Glenna R. Joyce Merit Scholarship, University of Notre Dame [[link]](https://scholars.nd.edu/awards/list-of-awards/glenna-r-joyce-scholarship/)
+
+---
+## Academia Outside of the Lab
+1. HuskyADAPT [[link]](https://depts.washington.edu/adaptuw/)
+- Design Chair 
+- GoBabyGo UW Leadership Team
+2. Mechanical Engineering Graduate Student Association [[link]](https://www.me.washington.edu/gsa)
+- Social Chair
+3. Enable ND [[link]](https://sites.google.com/a/nd.edu/enable-nd/home)
+- President
+- Vice-President
+- Director of Research and Development
+4. AccessABLE [[link]](https://www.instagram.com/ndaccess_able/)
+- Member 
+5. Society of Women Engineers, University of Notre Dame and University of Washington
+- Director of Diversity
+- Director of Outreach
+
 ---
 > The future is accessible.
