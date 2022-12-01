@@ -15,14 +15,14 @@ In a collaboration between [CREATE](https://create.uw.edu/) and [I-LABS](https:/
 Using a custom data logger in an adapted ride-on car, we were able to use GPS data to investigate the impact the accessibility of a child's neighborhood environment has on their usage of their ride-on car. To measure environmental accessibility, we used the \textit{AccessScore} from [Project Sidewalk](https://sidewalk-sea.cs.washington.edu/), an open-source accessibility mapping initiative, and the Walkability score, a measure of neighborhood pedestrian-friendliness. We found that children played for a longer period of time, actively drove for more of the play session, and drove further when the ROC was driven outside of the home. Most notably, we found that children drove more in pedestrian-friendly neighborhoods and when in proximity to accessible paths. The accessibility of the built environment is paramount when providing any form of mobility device to a child. Providing an accessible place for a child to move, play, and explore is critical in helping a child and family adopt the mobility device into their daily life.
 
 ## Steering modifications to support early mobility
-<img class="profile-picture" src="photos/Explorer-Mini-Steering-Mod" alt = "A dinosaur toy sitting in an Explorer Mini with a bike-handle-like steering modification on top of the joystick." width = "400"/>
+<img class="profile-picture" src="photos/Explorer-Mini-Steering-Mod.png" alt = "A dinosaur toy sitting in an Explorer Mini with a bike-handle-like steering modification on top of the joystick." width = "400"/>
 
 For young children using power mobility, a joystick or steering wheel may hard for them to grasp due to their physical abilities or sensory challenges. As such, we have been hacking our own modifications for both the steering wheel of an adapted ride-on car and the joystick of an Explorer Mini. We are creating a suite of steering modifications for both the adapted ride-on car and the Explorer Mini that can be 3D printed and easily attached to the device. 
 
 ## Development of a switch access toolkit for young children
-<img class="profile-picture" src="Makey-Makey-kit.png" alt = "The Makey Makey alongside customized 3D printed tilt sensors." width = "400"/>
+<img class="profile-picture" src="photos/Makey-Makey-kit.png" alt = "The Makey Makey alongside customized 3D printed tilt sensors." width = "400"/>
 
 During the winter and spring of 2022, I helped to mentor a BioE/ME capstone this past academic year that was developing a way for a 2 year old with Cerebral Palsy to play with her older sister (5 years old). The team used a Makey Makey to create a human-computer interface using different mechanical switches. I have since incorporated this project into my research to co-design a switch access training toolkit that Early Intervention therapists (e.g.,physical, occupational, speech language pathology) can use with their clients. We are also planning on using this toolkit to study upper extremity movements in young kids with CP, and the impact of alternative controls. 
 
 ## Testing the efficacy of a body weight support system for toddler with Down Syndrome
-<img class="profile-picture" src="Body-Weight-Support-System.png" alt = "A stuffed unicorn playing with a block while in a body weight support system." width = "400"/>
+<img class="profile-picture" src="photos/Body-Weight-Support-System.png" alt = "A stuffed unicorn playing with a block while in a body weight support system." width = "400"/>
