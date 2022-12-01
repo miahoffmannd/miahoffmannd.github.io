@@ -55,6 +55,7 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 - GoBabyGo UW Leadership Team
 2. Mechanical Engineering Graduate Student Association [[link]](https://www.me.washington.edu/gsa)
 - Social Chair
+
 ### University of Notre Dame
 1. Enable ND [[link]](https://sites.google.com/a/nd.edu/enable-nd/home)
 - President
