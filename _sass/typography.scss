@@ -78,7 +78,7 @@
     }
     .wrapped {
         height: auto;
-        width: 30%;
+        width: 35%;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
@@ -87,7 +87,7 @@
             padding: 0;
             margin: 0;
         }
-        @media (max-width: 30%) {
+        @media (max-width: 35%) {
             img {
                 margin-top: -5px;
             }
