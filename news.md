@@ -16,4 +16,4 @@ layout: default
 <img class="inline-picture" src="photos/AACPDM-Presentation-Sep-2022.jpeg" alt = "Mia presenting a poster on environmental accessibility at AACPDM.">
 
 ## May 2022: Mia presents a poster at NWBS in Pullman, WA
-<img class="inline-picture" src="photos/NWBS-Presentation-2022.jpeg" alt = "Mia presenting a steering modifications poster on a tv monitor at NWBS while holding 2 3D printed steering modifications.">
+<img class="inline-picture" src="photos/NWBS-Presentation-May-2022.jpeg" alt = "Mia presenting a steering modifications poster on a tv monitor at NWBS while holding 2 3D printed steering modifications.">
