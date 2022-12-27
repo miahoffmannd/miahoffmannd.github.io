@@ -64,14 +64,14 @@
         }
     }
   .center {
-    //display: block;
-    //margin-left: auto;
-    //margin-right: auto;
-    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    //float: center;
     width: 50%;
     height: auto;
     border-radius: 5%;
-    @media (max-width: 100%) {
+    @media (max-width: 50%) {
             img {
             }
         }
