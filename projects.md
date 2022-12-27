@@ -5,7 +5,7 @@ layout: default
 # Projects
 
 ## How do children learn to drive an Explorer Mini?
-<img class="center" src="photos/Exploratory-Play-Explorer-Mini.png" alt = "A dinosaur toy driving an Explorer Mini up to a toy mailbox.">
+<img class="wrapped" src="photos/Exploratory-Play-Explorer-Mini.png" alt = "A dinosaur toy driving an Explorer Mini up to a toy mailbox.">
 
 In a collaboration between [CREATE](https://create.uw.edu/) and [I-LABS](https://ilabs.uw.edu/), we are currently working to understand how young kids learn to use powered mobility and the impact it has on their language development. We are using the Explorer Mini, a recently FDA-approved pediatric wheelchair for kids 1-3 years, in this study. We have tricked out the Explorer Mini with sensors to measure a child's path travelled and their joystick control patterns. 
 
