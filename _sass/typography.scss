@@ -76,4 +76,21 @@
             }
         }
     }
+    .wrapped {
+        height: auto;
+        width: 50%;
+        position: relative;
+        margin: -10px 0 0 15px;
+        float: right;
+        border-radius: 5%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: 50%) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
 }
