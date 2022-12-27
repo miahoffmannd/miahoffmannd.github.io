@@ -54,10 +54,13 @@
         }
     }
     .inline-picture {
-        height: $image-size;
-        width: $image-size;
+        height: auto;
+        //width: $image-size;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
         position: relative;
-        float: center;
+        //float: center;
         @media (max-width: 100%) {
             img {
             }
