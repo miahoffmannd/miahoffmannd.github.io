@@ -58,7 +58,7 @@
         width: $image-size;
         position: relative;
         float: center;
-        @media () {
+        @media (max-width: 100%) {
             img {
             }
         }
@@ -69,7 +69,9 @@
     //margin-right: auto;
     float: center;
     width: 50%;
-    @media () {
+    height: auto;
+    border-radius: 5%;
+    @media (max-width: 100%) {
             img {
             }
         }
