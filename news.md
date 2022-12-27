@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+# News
+
+## November 28, 2022: Mia passes her Qualifying Exam
+<img class="inline-picture" src="photos/Mia-Qualifying-Exam.jpg" alt = "Mia presenting her qualifying exam.">
+
