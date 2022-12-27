@@ -21,3 +21,5 @@ nav:
    link: "Hoffman_Mia_CV.pdf"
  - name: "Projects"
    link: "projects"
+ - name: "News"
+   link: "news"
