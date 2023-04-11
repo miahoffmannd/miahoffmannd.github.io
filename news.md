@@ -5,7 +5,7 @@ layout: default
 # News
 
 ## February 10, 2023: Mia receives a CREATE Student Minigrant
-<img class="inline-picture" src="photos/ROC1.JPG" alt = "The Research Unicorn sitting in a black Toyota Tundra adapted ride-on car.">
+<img class="inline-picture" src="photos/ROC1.JPEG" alt = "The Research Unicorn sitting in a black Toyota Tundra adapted ride-on car.">
 
 ## November 28, 2022: Mia passes her Qualifying Exam
 <img class="inline-picture" src="photos/Mia-Qualifying-Exam.JPG" alt = "Mia presenting her qualifying exam.">
