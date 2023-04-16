@@ -3,6 +3,11 @@ layout: default
 ---
 
 # News
+## April 15, 2023: Mia gives a 15-minute podium presentation at International Seating Symposium
+<img class="inline-picture" src="photos/ISS-Podium-Presentation-2023.jpg" alt = "Mia wearing a dress standing next to a podium that says International Seating Symposium.">
+
+## April 13, 2023: Mia presents a poster at International Seating Symposium
+<img class="inline-picture" src="photos/ISS-Poster-Presentation-2023.jpg" alt = "Mia presenting a poster on steering modifications and a datalogger for an adapted ride-on car to a man.">
 
 ## February 10, 2023: Mia receives a CREATE Student Minigrant
 <img class="inline-picture" src="photos/ROC1.JPEG" alt = "The Research Unicorn sitting in a black Toyota Tundra adapted ride-on car.">
