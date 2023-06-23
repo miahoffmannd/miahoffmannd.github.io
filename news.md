@@ -3,6 +3,10 @@ layout: default
 ---
 
 # News
+
+## May 19, 2023: Mia is awarded an honorable mention for her poster at Northwest Biomechanics Symposium.
+<img class="inline-picture" src="photos/NWBS-Presentation-2023.jpg" alt = "Mia wearing a salmon-colored dress standing beside a poster on using portable partial bodyweight support systems with children with Down Syndrome.">
+
 ## April 15, 2023: Mia gives a 15-minute podium presentation at International Seating Symposium
 <img class="inline-picture" src="photos/ISS-Podium-Presentation-2023.jpg" alt = "Mia wearing a dress standing next to a podium that says International Seating Symposium.">
 
