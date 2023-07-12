@@ -17,7 +17,7 @@ Reading is another passion of mine. I enjoy getting lost in the pages of a good 
 
 ## Hiking
 
-<img class="wrapped" src="photos/Mia-Rainier2023.jpg" alt = "Mia standing holding hiking poles in front of Mt. Rainier.">
+<img class="wrapped" src="photos/Mia-Rainier2022.jpg" alt = "Mia standing holding hiking poles in front of Mt. Rainier.">
 
 Exploring nature on foot is an incredible experience. Hiking allows me to escape the hustle and bustle of everyday life and reconnect with the outdoors. The serenity of the trails, the breathtaking views, and the physical challenge make hiking one of my go-to activities for relaxation and adventure.
 
