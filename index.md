@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="headshot-June-2022.jpg" alt = "Mia Hoffman"/>
+<img class="profile-picture" src="headshot-June-2022.jpg" alt = "Mia Hoffman" width = .3/>
 
 I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engineering at the University of Washington, and a student member of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](https://create.uw.edu/)) at the University of Washington. I received my Bachelor's degree in Mechanical Engineering from the University of Notre Dame with a minor in bioengineering. My research is at the intersection of biomechanics, accessibility, and rehabilitation medicine and focuses on the design and translation of mobility and accessible play technologies for young children. My goal in my work is to "just let kids be kids" exploring the world around them. 
 
