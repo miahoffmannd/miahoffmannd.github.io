@@ -23,20 +23,19 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 
 ---
 ## Research Experience
-#### Biomechanics & Accessibility | _Ability & Innovation Lab, University of Washington | IMPACT Collaboratory, University of Washington_
+**Biomechanics & Accessibility** | _Ability & Innovation Lab, University of Washington_ | _IMPACT Collaboratory, University of Washington_
 - Co-advisors: [Kat M. Steele](https://www.me.washington.edu/facultyfinder/kat-m-steele) and [Heather A. Feldner](https://impactco.rehab.washington.edu/team/heather-feldner/)
 
-
-#### Medical Imaging & Solid Mechanics | _CoMMaND Lab, University of Notre Dame_
+**Medical Imaging & Solid Mechanics** | _CoMMaND Lab, University of Notre Dame_
 - Advisor: [Maria A. Holland](https://engineering.nd.edu/faculty/maria-holland/)
 
-#### Auditory Neuroscience & MRI | _Auditory Perception and Cognition Lab, University of Minnesota_
+**Auditory Neuroscience & MRI** | _Auditory Perception and Cognition Lab, University of Minnesota_
 - Advisor: [Andrew Oxenham](https://med.umn.edu/bio/ent-faculty/andrew-oxenham)
 
-#### Auditory Neuroscience & Signal Processing | _Carney Lab, University of Rochester_
+**Auditory Neuroscience & Signal Processing** | _Carney Lab, University of Rochester_
 - Advisor: [Laurel H. Carney](https://www.urmc.rochester.edu/people/27094648-laurel-h-carney)
 
-#### Data-Driven Methods | _Battelle Center for Mathematical Medicine, Nationwide Children's Hospital_
+**Data-Driven Methods** | _Battelle Center for Mathematical Medicine, Nationwide Children's Hospital_
 - Advisor: [William C. Ray](https://pediatricsnationwide.org/2022/02/09/featured-researcher-will-ray/)
 
 ---
