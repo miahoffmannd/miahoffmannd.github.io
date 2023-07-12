@@ -51,6 +51,7 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 ## Academia Outside of the Lab
 ### University of Washington
 1. HuskyADAPT [[link]](https://depts.washington.edu/adaptuw/)
+- Student Executive Chair
 - Design Chair 
 - GoBabyGo UW Leadership Team
 2. Mechanical Engineering Graduate Student Association [[link]](https://www.me.washington.edu/gsa)
