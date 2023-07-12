@@ -23,3 +23,5 @@ nav:
    link: "projects"
  - name: "News"
    link: "news"
+ - name: "Contact Me"
+   link: "contact"
