@@ -23,5 +23,7 @@ nav:
    link: "projects"
  - name: "News"
    link: "news"
+ - name: "For Fun"
+   link: "fun"   
  - name: "Contact Me"
    link: "contact"
