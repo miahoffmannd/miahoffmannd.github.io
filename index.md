@@ -18,7 +18,7 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 
 1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” Disability & Rehabilitation: Assistive Technology. _In Revision._
 2. **Hoffman, Mia E.**, Katherine M. Steele, Kyle N. Winfree, and Heather A. Feldner.  “The Impact of the Built Environment on Early Power Mobility Access.” UrbanAccess’22 Workshop at ASSETS. [[link]](https://accessiblecities.github.io/UrbanAccess2022/#accepted-papers)
-3. Demirci, Nagehan, **Mia E. Hoffman**, and Maria A. Holland. “Systematic cortical thickness patterns in primates suggest a universal physical law of folding.” Neuroimage. _Accepted._
+3. Demirci, Nagehan, **Mia E. Hoffman**, and Maria A. Holland. “Systematic cortical thickness and curvature patterns in primates.” Neuroimage. 2023. [[link]](https://doi.org/10.1016/j.neuroimage.2023.120283)
 4. Darayi, Mohsen, **Mia E. Hoffman**, John Sayut, Shuolun Wang, Nagehan Demirci, Jack Consolini, and Maria A. Holland. 2021. “Computational Models of Cortical Folding: A Review of Common Approaches.” Journal of Biomechanics. 2021. [[link]](https://doi.org/10.1016/j.jbiomech.2021.110851)
 
 ---
