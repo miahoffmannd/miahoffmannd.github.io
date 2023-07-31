@@ -50,6 +50,7 @@ _Battelle Center for Mathematical Medicine, Nationwide Children's Hospital_
 
 ---
 ## Highlighted Honors
+- RESNA Student Scientific Paper Award Winner 2023
 - 2022 NextProf Pathfinder Workshop, Oct 2-4, 2022, San Diego, CA [[link]](https://jacobsschool.ucsd.edu/news/release/3524)
 - Honorable Mention for Accessibility, CREATE Accessible and Inclusive Textiles Hackfest 
 - Bioengineering Outstanding Undergraduate Researcher Award, University of Notre Dame
