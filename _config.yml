@@ -23,6 +23,8 @@ nav:
    link: "projects"
  - name: "News"
    link: "news"
+ - name: "Resources"
+   link: "resources"
  - name: "For Fun"
    link: "fun"   
  - name: "Contact Me"
