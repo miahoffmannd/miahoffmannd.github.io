@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="headshot-June-2022.jpg" alt = "Mia Hoffman" width = 30>
 
-I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engineering at the University of Washington, and a student member of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](https://create.uw.edu/)) at the University of Washington. I received my Bachelor's degree in Mechanical Engineering from the University of Notre Dame with a minor in bioengineering. My research is at the intersection of biomechanics, accessibility, and rehabilitation medicine and focuses on the design and translation of mobility and accessible play technologies for young children. My goal in my work is to "just let kids be kids" exploring the world around them. 
+I am a third-year NSF GRFP Ph.D. Student in the Department of Mechanical Engineering at the University of Washington, and a student member of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](https://create.uw.edu/)) at the University of Washington. I received my Bachelor's degree in Mechanical Engineering from the University of Notre Dame with a minor in bioengineering. My research is at the intersection of biomechanics, accessibility, and rehabilitation medicine and focuses on the design and translation of mobility and accessible play technologies for young children. My goal in my work is to "just let kids be kids" exploring the world around them. 
 
 ## Research Interests
 1. Early Mobility
@@ -16,7 +16,7 @@ I am a second-year NSF GRFP Ph.D. Student in the Department of Mechanical Engine
 ---
 ## Publications
 
-1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” Disability & Rehabilitation: Assistive Technology. _Accepted._
+1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” Disability & Rehabilitation: Assistive Technology. 2023. [[link]](https://doi.org/10.1080/17483107.2023.2248218)
 2. **Hoffman, Mia E.**, Katherine M. Steele, Kyle N. Winfree, and Heather A. Feldner.  “The Impact of the Built Environment on Early Power Mobility Access.” UrbanAccess’22 Workshop at ASSETS. [[link]](https://accessiblecities.github.io/UrbanAccess2022/#accepted-papers)
 3. Demirci, Nagehan, **Mia E. Hoffman**, and Maria A. Holland. “Systematic cortical thickness and curvature patterns in primates.” Neuroimage. 2023. [[link]](https://doi.org/10.1016/j.neuroimage.2023.120283)
 4. Darayi, Mohsen, **Mia E. Hoffman**, John Sayut, Shuolun Wang, Nagehan Demirci, Jack Consolini, and Maria A. Holland. 2021. “Computational Models of Cortical Folding: A Review of Common Approaches.” Journal of Biomechanics. 2021. [[link]](https://doi.org/10.1016/j.jbiomech.2021.110851)
