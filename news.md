@@ -3,14 +3,17 @@ layout: default
 ---
 
 # News
+## November 7, 2023: Mia passes her General Exam.
+<img: class="inline-picture" src="photos/Mia-GeneralExam-2023.jpg" alt = "Mia wearing a green plaid dress standing next to a powerpoint reading Quantifying On Time Access to Mobility.">
+
 ## October 22, 2023: Mia mentors at NextProf Pathfinder Workshop at the University of Michigan.
-<img: class="inline-picture" src="photos/Mia-NextProf-2023" alt = "Mia standing with five other PhD students in front a presenting screen that says NextProf Pathfinder.">
+<img: class="inline-picture" src="photos/Mia-NextProf-2023.jpg" alt = "Mia standing with five other PhD students in front a presenting screen that says NextProf Pathfinder.">
 
 ## September 12, 2023: Mia presents a podium presentation at the American Academy of Cerebral Palsy and Developmental Medicine in Chicago.
-<img: class="inline-picture" src="photos/Mia-AACPDM-2023" alt = "Mia wearing a knee length rust-colored dress presenting a presentation titled Quantifying the Activity levels of toddlers with Down syndrome playing in a partial body weight support system.">
+<img: class="inline-picture" src="photos/Mia-AACPDM-2023.jpg" alt = "Mia wearing a knee length rust-colored dress presenting a presentation titled Quantifying the Activity levels of toddlers with Down syndrome playing in a partial body weight support system.">
 
 ## July 26, 2023: Mia wins the RESNA Student Paper Competition.
-<img: class="inline-picture" src="photos/Mia-RESNA-2023" alt = "Mia presenting in front of an audience a presentation titled Exploring the World on Wheels.">
+<img: class="inline-picture" src="photos/Mia-RESNA-2023.jpg" alt = "Mia presenting in front of an audience a presentation titled Exploring the World on Wheels.">
 
 ## May 19, 2023: Mia is awarded an honorable mention for her poster at Northwest Biomechanics Symposium.
 <img class="inline-picture" src="photos/NWBS-Presentation-2023.jpg" alt = "Mia wearing a salmon-colored dress standing beside a poster on using portable partial bodyweight support systems with children with Down Syndrome.">
