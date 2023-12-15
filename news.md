@@ -6,6 +6,7 @@ layout: default
 
 ## December 15 2023: 'Gears of Progress' podcast episode interviewing Mia
 <img class="inline-picture" src="photos/Episode 2 Cover.png" alt = "Mia wearing a blazer imposed on a background that says Episode 2 Mia Hoffman on early childhood mobility, young kids as participants, and accessibility of research for people with disabilities.">
+
 [Click here](https://open.spotify.com/episode/5kkFQaIhczc4ACfuEEovBu?si=10dc61ca4bdf4b05) to listen to the podcast on Spotify.
 
 ## November 7, 2023: Mia passes her General Exam.
