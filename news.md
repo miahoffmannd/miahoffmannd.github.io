@@ -3,8 +3,12 @@ layout: default
 ---
 
 # News
+## February 26, 2023: Article features modified ride-on car accessibility work is published. 
+<img class="inline-picture" src="photos/WheelsInMotion-Article-Snip.png" alt = "An article headline reading Wheels in motion: improving mobility technologies for children.">
 
-## December 15 2023: 'Gears of Progress' podcast episode interviewing Mia
+[Click here](https://www.me.washington.edu/news/article/2024-02-26/wheels-in-motion) to read the article.
+
+## December 15, 2023: 'Gears of Progress' podcast episode interviewing Mia.
 <img class="inline-picture" src="photos/Episode 2 Cover.png" alt = "Mia wearing a blazer imposed on a background that says Episode 2 Mia Hoffman on early childhood mobility, young kids as participants, and accessibility of research for people with disabilities.">
 
 [Click here](https://open.spotify.com/episode/5kkFQaIhczc4ACfuEEovBu?si=10dc61ca4bdf4b05) to listen to the podcast on Spotify.
