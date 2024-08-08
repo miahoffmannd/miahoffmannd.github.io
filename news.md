@@ -3,7 +3,10 @@ layout: default
 ---
 
 # News
-## February 26, 2023: Article features modified ride-on car accessibility work is published. 
+
+## March 2024: Mia receives NIH INCLUDE TL1 grant.
+
+## February 26, 2024: Article features modified ride-on car accessibility work is published. 
 <img class="inline-picture" src="photos/WheelsInMotion-Article-Snip.png" alt = "An article headline reading Wheels in motion: improving mobility technologies for children.">
 
 [Click here](https://www.me.washington.edu/news/article/2024-02-26/wheels-in-motion) to read the article.
