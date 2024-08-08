@@ -21,12 +21,14 @@ Working alongside a team of pediatric physical therapists, I participated in a m
 
 Using a custom data logger in an adapted ride-on car, we were able to use GPS data to investigate the impact the accessibility of a child's neighborhood environment has on their usage of their ride-on car. To measure environmental accessibility, we used the AccessScore from [Project Sidewalk](https://sidewalk-sea.cs.washington.edu/), an open-source accessibility mapping initiative, and the Walkability score, a measure of neighborhood pedestrian-friendliness. We found that children played for a longer period of time, actively drove for more of the play session, and drove further when the ROC was driven outside of the home. Most notably, we found that children drove more in pedestrian-friendly neighborhoods and when in proximity to accessible paths. The accessibility of the built environment is paramount when providing any form of mobility device to a child. Providing an accessible place for a child to move, play, and explore is critical in helping a child and family adopt the mobility device into their daily life.
 
+<button name="button" onclick="location.href='https://www.me.washington.edu/news/article/2024-02-26/wheels-in-motion';">Learn more here</button>
+
 ## How do children learn to drive an Explorer Mini?
 <img class="wrapped" src="photos/Exploratory-Play-Explorer-Mini.png" alt = "A dinosaur toy driving an Explorer Mini up to a toy mailbox.">
 
 In a collaboration between [CREATE](https://create.uw.edu/) and [I-LABS](https://ilabs.uw.edu/), we worked to understand how young kids learn to use powered mobility and the impact it has on their language development. We used the Permobil Explorer Mini, a recently FDA-approved pediatric wheelchair for kids 1-3 years, in this study. The Explorer Mini used in this study hase sensors incorporated to measure a child's path travelled and their joystick control patterns. Thirteen children participated in up to 12 play-based driving sessions with our team in the lab while we measured their control abilties, muscle activity, and language.
 
-<button name="button" onclick="location.href='https://create.uw.edu/initiatives/moonshot-access-mobility-and-the-brain/';">Read more here</button>
+<button name="button" onclick="location.href='https://create.uw.edu/initiatives/moonshot-access-mobility-and-the-brain/';">Learn more here</button>
 
 ## Steering modifications to support early mobility
 <img class="wrapped" src="photos/Steering-Rod-Demonstration.jpg" alt = "A stuffed unicorn toy sitting in an adapted ride-on car with a 3D printed steering rod mounted on the steering wheel." width = "400"/>
