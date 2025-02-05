@@ -4,12 +4,16 @@ layout: default
 
 # Projects
 
+## Testing the efficacy of mobility aids for children with Down syndrome
+<img class="wrapped" src="photos/PUMA-Team.jpg" alt = "Adults playing with a child in a partial bodyweight support system." width = "400"/>
+We are currently enrolling local children with Down syndrome (ages 12-36 months) who are not yet indepedently walking to come play with our research team while using a partial bodyweight support system (PUMA, Enliten LLC) or a powered mobility device (Permobil Explorer Mini). While children are playing we will measure their muscle activity using wearable sensors and exploration using body-worn colored tape and a camera system.
+
 ## Development of a switch access playkit for young children alongside families and clincians
-<img class="wrapped" src="photos/Makey-Makey-kit.png" alt = "The Makey Makey alongside customized 3D printed tilt sensors." width = "400"/>
+<img class="wrapped" src="photos/Mia-CoDesign.JPEG" alt = "Mia showing a young child wearing glasses the Switch Kit." width = "400"/>
 
-A project that initially started as a multidisciplinary clinician-driven capstone team, has evolved into a full research project. We have worked alongside families of children receiving early intervention and their clinicians to create the switch kit, a digital playkit that can be accessed using a variety of low-cost, easy-to-fabricate switches. The switch kit consists of three components: 1) digital interactive media created in [Scratch](https://scratch.mit.edu/), 2) an adapted [MakeyMakey](https://makeymakey.com/) input device, and 3) a wide variety of do-it-yourself switches that can be adapted to each specific child. We are currently testing the efficacy of the switch kit through in-home and in-clinic deployments.
+A project that initially started as a multidisciplinary clinician-driven capstone team, has evolved into a full research project. We have worked alongside families of children receiving early intervention and their clinicians to create the Switch Kit, a digital playkit that can be accessed using a variety of low-cost, easy-to-fabricate switches. The switch kit consists of three components: 1) digital interactive media created in [Scratch](https://scratch.mit.edu/), 2) an adapted [MakeyMakey](https://makeymakey.com/) input device, and 3) a wide variety of do-it-yourself switches that can be adapted to each specific child. We are currently testing the efficacy of the switch kit through in-home and in-clinic deployments.
 
-<button name="button" onclick="location.href='https://miahoffmannd.github.io/switchkit/';">Learn more here</button>
+<button name="button" onclick="location.href='https://miahoffmannd.github.io/switchkit/';">Check out the Switch Kit website</button>
 
 ## A clinical trial to test the efficacy of a body weight support system for toddler with Down Syndrome
 <img class="wrapped" src="photos/Body-Weight-Support-System.png" alt = "A stuffed unicorn playing with a block while in a body weight support system." width = "400"/>
