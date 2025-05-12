@@ -5,7 +5,7 @@ layout: default
 # Resources
 
 ## RESNA 2025 - Switch It Up Slides
-Thank you for attending our session at RehabWeek 2025. Please find a [copy of our slides here](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/SwitchItUp-RESNA2025-Notes.pdf).
+Thank you for attending our session at RehabWeek 2025. Please find a [copy of our slides here](SwitchItUp-RESNA2025-Notes.pdf).
 
 ## Switch Access
 
