@@ -11,6 +11,8 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
   <embed src="SwitchItUp-RESNA2025-Notes.pdf" type="application/pdf">
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="SwitchItUp-RESNA2025-Notes.pdf">Download PDF</a>.</p>
 </embed>
+</object>
+
 
 
 ## Switch Access
