@@ -4,6 +4,9 @@ layout: default
 
 # Resources
 
+## RESNA 2025 - Switch It Up Slides
+Thank you for attending our session at RehabWeek 2025. Please find a [copy of our slides here](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/SwitchItUp-RESNA2025-Notes.pdf).
+
 ## Switch Access
 
 [Click here](https://docs.google.com/spreadsheets/d/1A8pYBST7fJUR6cs3e7P1bW0MGPkAr9ehq8qfLVYWRhY/edit#gid=0) to access my spreadsheet of Switch Access Games and Training Activies.
