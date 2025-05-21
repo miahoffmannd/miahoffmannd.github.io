@@ -49,8 +49,9 @@ _Battelle Center for Mathematical Medicine, Nationwide Children's Hospital_
 
 ---
 ## Highlighted Honors
+- RESNA Student Scientific Paper Award Winner, 2025 [[link]](https://www.resna.org/Events/2025-RESNA-Conference/2025-Posters-Scientific-and-Student-Scientific)
 - National Institute of Health INCLUDE TL1 Awardee, March 2024
-- RESNA Student Scientific Paper Award Winner 2023
+- RESNA Student Scientific Paper Award Winner 2023 [[link]](https://www.resna.org/About/RESNA-News/News-Archives/resna-2023-student-scientific-paper-competition-winners-and-runners-up-announced-1)
 - 2022 NextProf Pathfinder Workshop, Oct 2-4, 2022, San Diego, CA [[link]](https://jacobsschool.ucsd.edu/news/release/3524)
 - Honorable Mention for Accessibility, CREATE Accessible and Inclusive Textiles Hackfest 
 - Bioengineering Outstanding Undergraduate Researcher Award, University of Notre Dame
