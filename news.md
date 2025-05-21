@@ -23,6 +23,8 @@ layout: default
   <img src="https://img.shields.io/badge/Click%20here%20to%20read%20the%20article-%23800080?style=for-the-badge" alt="Click here to read the article">
 </a>
 
+## January 2024: Mia receives CREATE Translation Grant to support work on the Switch Kit.
+
 ## December 15, 2023: 'Gears of Progress' podcast episode interviewing Mia.
 <img class="inline-picture" src="photos/Episode 2 Cover.png" alt = "Mia wearing a blazer imposed on a background that says Episode 2 Mia Hoffman on early childhood mobility, young kids as participants, and accessibility of research for people with disabilities.">
 
