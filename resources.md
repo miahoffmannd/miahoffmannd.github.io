@@ -14,6 +14,8 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 </object>
 
 ## My Favorite Disability Studies Works Related to Assistive Technology
+
+<div style="overflow-x: auto;">
 | Title | Content Creator | Year | Format | Link |
 |-------|------------------|------|--------|------|
 | I'm not your inspiration, thank you very much | Stella Young | 2014 | TED Talk | [Link](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much?referrer=playlist-talks_to_help_you_claim_your_i&autoplay=true) |
@@ -27,6 +29,9 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 | Crip Camp: A Disability Revolution | James LeBrecht and Nicole Newnham | 2020 | Documentary | [Link](https://youtu.be/OFS8SpwioZ4?si=JUyXalwQgU9kfcEG) |
 | What Can a Body Do?: How we meet the built world | Sara Hendren | 2020 | Book | [Link](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/) |
 | Against Technoableism: Rethinking who needs improvement | Ashley Shew | 2023 | Book | [Link](https://bookshop.org/p/books/against-technoableism-rethinking-who-needs-improvement-ashley-shew/19670010) |
+
+</div>
+
 
 
 ## Switch Access
