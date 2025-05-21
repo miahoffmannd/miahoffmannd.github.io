@@ -23,7 +23,9 @@ We are currently enrolling local children with Down syndrome (ages 12-36 months)
 
 A project that initially started as a multidisciplinary clinician-driven capstone team, has evolved into a full research project. We have worked alongside families of children receiving early intervention and their clinicians to create the Switch Kit, a digital playkit that can be accessed using a variety of low-cost, easy-to-fabricate switches. The switch kit consists of three components: 1) digital interactive media created in [Scratch](https://scratch.mit.edu/), 2) an adapted [MakeyMakey](https://makeymakey.com/) input device, and 3) a wide variety of do-it-yourself switches that can be adapted to each specific child. We are currently testing the efficacy of the switch kit through in-home and in-clinic deployments.
 
-<button name="button" onclick="location.href='https://miahoffmannd.github.io/switchkit/';">Check out the Switch Kit website</button>
+<a href="https://miahoffmannd.github.io/switchkit/" target="_blank">
+  <img src="https://img.shields.io/badge/Check%20out%20the%20Switch%20Kit%20website-%23800080?style=for-the-badge" alt="Switch Kit Website">
+</a>
 
 ## A clinical trial to test the efficacy of a body weight support system for toddler with Down Syndrome
 <img class="wrapped" src="photos/Body-Weight-Support-System.png" alt = "A stuffed unicorn playing with a block while in a body weight support system." width = "400"/>
