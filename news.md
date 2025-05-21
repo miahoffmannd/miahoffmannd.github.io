@@ -9,12 +9,16 @@ layout: default
 ## February 26, 2024: Article features modified ride-on car accessibility work is published. 
 <img class="inline-picture" src="photos/WheelsInMotion-Article-Snip.png" alt = "An article headline reading Wheels in motion: improving mobility technologies for children.">
 
-[Click here](https://www.me.washington.edu/news/article/2024-02-26/wheels-in-motion) to read the article.
+<a href="https://www.me.washington.edu/news/article/2024-02-26/wheels-in-motion" target="_blank">
+  <img src="https://img.shields.io/badge/Click%20here%20to%20read%20the%20article-%23800080?style=for-the-badge" alt="Click here to read the article">
+</a>
 
 ## December 15, 2023: 'Gears of Progress' podcast episode interviewing Mia.
 <img class="inline-picture" src="photos/Episode 2 Cover.png" alt = "Mia wearing a blazer imposed on a background that says Episode 2 Mia Hoffman on early childhood mobility, young kids as participants, and accessibility of research for people with disabilities.">
 
-[Click here](https://open.spotify.com/episode/5kkFQaIhczc4ACfuEEovBu?si=10dc61ca4bdf4b05) to listen to the podcast on Spotify.
+<a href="https://open.spotify.com/episode/5kkFQaIhczc4ACfuEEovBu?si=10dc61ca4bdf4b05" target="_blank">
+  <img src="https://img.shields.io/badge/Listen%20on%20Spotify-%23800080?style=for-the-badge" alt="Listen on Spotify">
+</a>
 
 ## November 7, 2023: Mia passes her General Exam.
 <img class="inline-picture" src="photos/Mia-GeneralExam-2023.jpg" alt = "Mia wearing a green plaid dress standing next to a powerpoint reading Quantifying On Time Access to Mobility.">
