@@ -23,7 +23,7 @@ I am a fourth-year PhD Candidate, co-advised in both the Departments of Mechanic
 ---
 ## Research Experience
 **Biomechanics & Accessibility**
-_Ability & Innovation Lab, University of Washington_ | _IMPACT Collaboratory, University of Washington_
+_Neuromechanics and Mobility Lab, University of Washington_ | _IMPACT Collaboratory, University of Washington_
 - Co-advisors: [Kat M. Steele](https://www.me.washington.edu/facultyfinder/kat-m-steele) and [Heather A. Feldner](https://impactco.rehab.washington.edu/team/heather-feldner/)
 - Years: 2021 - Present
 
