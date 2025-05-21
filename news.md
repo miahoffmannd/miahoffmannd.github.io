@@ -4,6 +4,16 @@ layout: default
 
 # News
 
+## May 15, 2025: Alisha Bose, Spencer Hensley, and Katie Belen Leija present at the UW Undergraduate Research Symposium.
+
+## May 12, 2025: Mia wins first place in RESNA Student Paper Competition.
+
+## May 12, 2025: Mia and Seong-Hee Westlake present a session on play with adaptive switches from switch-adapted toys to gaming and beyond at RehabWeek 2025 in Chicago, IL.
+
+## May 9, 2025: Mia presents pilot work on current mobility aids study at NWBS in Vancouver, BC. 
+
+## February 13, 2025: Mia, Heather Feldner, and Tiffany Li give a session at APTA CSM in Houston, TX on the Switch Kit.
+
 ## March 2024: Mia receives NIH INCLUDE TL1 grant.
 
 ## February 26, 2024: Article features modified ride-on car accessibility work is published. 
