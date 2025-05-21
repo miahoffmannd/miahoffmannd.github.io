@@ -8,6 +8,16 @@ layout: default
 <img class="wrapped" src="photos/PUMA-Team.jpg" alt = "Adults playing with a child in a partial bodyweight support system." width = "400"/>
 We are currently enrolling local children with Down syndrome (ages 12-36 months) who are not yet indepedently walking to come play with our research team while using a partial bodyweight support system (PUMA, Enliten LLC) or a powered mobility device (Permobil Explorer Mini). While children are playing we will measure their muscle activity using wearable sensors and exploration using body-worn colored tape and a camera system.
 
+<p>
+  <a href="pdfs/DS Mobility Aids flyer.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Study%20Flyer-%23800080?style=for-the-badge" alt="Study Flyer">
+  </a>
+  <a href="pdfs/UW Mobility Aids Study Community Partner Project Summary.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Learn%20more%20here-%23800080?style=for-the-badge" alt="Learn more here">
+  </a>
+</p>
+
+
 ## Development of a switch access playkit for young children alongside families and clincians
 <img class="wrapped" src="photos/Mia-CoDesign.JPEG" alt = "Mia showing a young child wearing glasses the Switch Kit." width = "400"/>
 
