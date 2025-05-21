@@ -16,7 +16,7 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 ## My Favorite Disability Studies Works Related to Assistive Technology
 | Title | Content Creator | Year | Format | Link |
 |-------|------------------|------|--------|------|
-| I’m not your inspiration, thank you very much | Stella Young | 2014 | TED Talk | [Link]([https://www.ted.com/talks/stella_young_i_m_notly ](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much?referrer=playlist-talks_to_help_you_claim_your_i&autoplay=true) |
+| I’m not your inspiration, thank you very much | Stella Young | 2014 | TED Talk | [Link](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much?referrer=playlist-talks_to_help_you_claim_your_i&autoplay=true) |
 | Building Accessibility Into America, Literally | Michael Kimmelman | 2020 | Article | [Link](https://www.nytimes.com/2020/07/20/arts/disabilities-architecture-design.html?unlocked_article_code=1.Xk4.6MGr.YZza-f6XpwHM&smid=url-share) |
 | Design for user empowerment | Richard Ladner | 2015 | Article | [Link](https://dl.acm.org/doi/10.1145/2723869) |
 | Disability Dongle | Liz Jackson | 2022 | Article | [Link](https://blog.castac.org/2022/04/disability-dongle/) |
