@@ -14,18 +14,20 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 </object>
 
 ## My Favorite Disability Studies Works Related to Assistive Technology
-| Title | Author(s) | Year | Description | Type | Link |
-|-------|-----------|------|-------------|------|------|
-| Design for user empowerment | Richard Ladner | 2015 | This article discusses how involving people with disabilities in the design process leads to better accessibility solutions. | Article | LINK |
-| Disability Dongle | Liz Jackson | 2022 | This article critiques well-meaning but ultimately ineffective disability solutions. | Article | LINK |
-| All Technology is Assistive | Sara Hendren | 2014 | This article argues that all technology can be assistive and should be designed with inclusivity in mind. | Article | LINK |
-| Gallaudet University’s Brilliant, Surprising Architecture for the Deaf | Amanda Kolson Hurley | 2016 | This article highlights the innovative architectural designs at Gallaudet University that cater to the needs of deaf students. | Article | LINK |
-| The Lows of High Tech | 99% Invisible | 2021 | This podcast episode discusses the challenges and limitations of high-tech prosthetics. | Podcast | [LINK](httpsb Cuts | 99% Invisible | 2021 | This podcast episode explores the history and impact of curb cuts on accessibility. | Podcast | LINK |
-| Demystifying Disability | Emily Ladau | 2021 | This book provides a comprehensive guide to understanding disability and promoting inclusivity. | Book | LINK |
-| Crip Camp: A Disability Revolution | James LeBrecht and Nicole Newnham | 2020 | This documentary describes the origins of the Disability Rights movement. | Documentary | LINK |
-| Fixed: The Science/Fiction of Human Enhancement | Regan Brashear | 2013 | This documentary examines the ethical and social implications of human enhancement technology. | Documentary | LINK |
-| Casual Ableist Language | Annie Elainey | 2017 | This video provides an explanation of language that is ableist. | Video | [LINK](https://youtu.be/a1rrSXkFqGE?si=H5Tfebow Bagel | Zach Anner | 2016 | Zach Anner, a comedian with cerebral palsy, demonstrates the (in)accessibility of NYC streets on a quest for a rainbow bagel. | Video | LINK |
-| Disability Sensitivity Training Video | dcgovernment | 2015 | A cheesy video showing how to interact with and respect individuals with disabilities. | Video | [LINK](https://youtu.be/Gor disability, we all benefit | Elise Roy | 2016 | Elise Roy discusses universal design and the benefits of designing for individuals with disabilities. | TED Talk | [LINK](https://youtu.be/g2m97gPI70I?si=CL8ZRVffruThfkSu) |
+| Title | Content Creator | Year | Format | Link |
+|-------|------------------|------|--------|------|
+| I’m not your inspiration, thank you very much | Stella Young | 2014 | TED Talk | [Link]([https://www.ted.com/talks/stella_young_i_m_notly ](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much?referrer=playlist-talks_to_help_you_claim_your_i&autoplay=true) |
+| Building Accessibility Into America, Literally | Michael Kimmelman | 2020 | Article | [Link](https://www.nytimes.com/2020/07/20/arts/disabilities-architecture-design.html?unlocked_article_code=1.Xk4.6MGr.YZza-f6XpwHM&smid=url-share) |
+| Design for user empowerment | Richard Ladner | 2015 | Article | [Link](https://dl.acm.org/doi/10.1145/2723869) |
+| Disability Dongle | Liz Jackson | 2022 | Article | [Link](https://blog.castac.org/2022/04/disability-dongle/) |
+| All Technology is Assistive | Sara Hendren | 2014 | Article | [Link](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd) |
+| The Lows of High Tech | 99% Invisible | 2021 | Podcast | [Link](https://99percentinvisible.org/episode/the-lows-of-high-tech/) |
+| Curb Cuts | 99% Invisible | 2021 | Podcast | [Link](https://99percentinvisible.org/episode/curb-cuts/) |
+| Demystifying Disability | Emily Ladau | 2021 | Book | [Link](https://emilyladau.com/book/) |
+| Crip Camp: A Disability Revolution | James LeBrecht and Nicole Newnham | 2020 | Documentary | [Link](https://youtu.be/OFS8SpwioZ4?si=JUyXalwQgU9kfcEG) |
+| What Can a Body Do?: How we meet the built world | Sara Hendren | 2020 | Book | [Link](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/) |
+| Against Technoableism: Rethinking who needs improvement | Ashley Shew | 2023 | Book | [Link](https://bookshop.org/p/books/against-technoableism-rethinking-who-needs-improvement-ashley-shew/19670010) |
+
 
 ## Switch Access
 
