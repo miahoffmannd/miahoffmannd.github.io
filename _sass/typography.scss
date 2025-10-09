@@ -126,4 +126,38 @@
     }
 }
 
+
+  // Setting up for two column
+  /* Two-column layout with image on the left and Markdown text on the right */
+.two-column {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;        /* space between image and text */
+  flex-wrap: wrap;   /* allows stacking on smaller screens */
+  margin-bottom: 20px;
+}
+
+.two-column img {
+  width: 30%;        /* adjust image width */
+  max-width: 200px;  /* optional max size */
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  flex-shrink: 0;
+}
+
+.two-column .text-column {
+  flex: 1;           /* text takes remaining space */
+}
+
+/* Optional: mobile adjustment */
+@media (max-width: 600px) {
+  .two-column {
+    flex-direction: column; /* stack image and text on small screens */
+  }
+  .two-column img {
+    width: 50%;
+    margin: 0 auto 10px;
+  }
+}
+
 }
