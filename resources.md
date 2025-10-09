@@ -32,6 +32,22 @@ layout: default
 </div>
 
 
+<div class="two-column">
+  <img src="photos/SwitchItUp-Thumbnail.png" alt="Switch It Up presentation">
+
+  <div class="text-column">
+  
+  ### Mia Hoffman and Seong-Hee Westlake
+
+  **Talk Summary**
+  - Identify different types of switches and other controls
+  - Modify and position gaming controls for pediatric clients
+  - Select games that match a child's interests, cognition, and abilities
+  - Use free tools to create simple, customizable games that meet specific therapeutic goals
+
+  </div>
+</div>
+
 
 
 ---
