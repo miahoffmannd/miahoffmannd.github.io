@@ -26,7 +26,7 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 These 3D printed files were created through collaborations between **Mia Hoffman** and **Bethany Sloane** to support pediatric mobility device adaptations. All files are **free to use** and shared **without liability**. Please feel free to download, modify, and integrate them into your own work.
 
 
-<div class="table-responsive">
+
 
 <!-- Markdown table -->
 
@@ -39,13 +39,13 @@ These 3D printed files were created through collaborations between **Mia Hoffman
 | Permobil Explorer Mini | Vertical rod joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/vertical-pole-EM.STL) |
 | Radio Flyer Tricycle | Adaptive Pedals | OHSU Team | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/278c2f3498a71435e0374655da7fbd6fee650999/3dprints/RadioFlyer-AssistivePedal.zip) |
 
-</div>
+
 
 ---
 
 ## Disability & Technology Media
 Are you new to the world of assistive technology from a disability studies lens? Here are some of my favorite reads, watches, and listens to get you started on your journey!
-<div class="table-responsive">
+
 
 <!-- Markdown table -->
 
@@ -69,5 +69,5 @@ Are you new to the world of assistive technology from a disability studies lens?
 | Newnham, N., & Lebrecht, L. (Directors). (2020). _Crip Camp: A Disability Revolution_ [Documentary]. Netflix. | [Link](https://youtu.be/OFS8SpwioZ4?si=9-O9zZtujtxPnWw3) |
 | Wong, Alice. (2020). _Disability Visibility: First-Person Stories from the Twenty-First Century_. Vintage Books. | [Link](https://disabilityvisibilityproject.com/)| 
 | Young, Stella (April 2014). _I’m Not Your Inspiration, Thank You Very Much_ [TED Talk]. | [Link](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much) |
-</div>
+
 
