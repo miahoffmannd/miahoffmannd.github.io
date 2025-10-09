@@ -23,7 +23,7 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 <tr>
 <td style="width:30%; vertical-align: top;">
 
-[<img src="images/SwitchItUp-Thumbnail.png" alt="Switch It Up Slide Preview" style="width:100%; border:1px solid #ccc; border-radius:8px;">](pdfs/SwitchItUp-RESNA2025-Notes.pdf)
+[<img src="photos/SwitchItUp-Thumbnail.png" alt="Switch It Up Slide Preview" style="width:100%; border:1px solid #ccc; border-radius:8px;">](pdfs/SwitchItUp-RESNA2025-Notes.pdf)
 
 </td>
 <td style="width:70%; vertical-align: top;">
