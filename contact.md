@@ -8,7 +8,7 @@ Thank you for visiting my website! If you have any inquiries, feedback, or colla
 
 You can get in touch with me through the following channels:
 
-**Email:** [miahoff[at]uw.com](mailto:miahoff@uw.edu)
+**Email:** [miahoff[at]uw.edu](mailto:miahoff@uw.edu)
 
 
 **Social Media:** Connect with me on [Twitter](https://twitter.com/miahoffmannd), [LinkedIn](https://linkedin.com/in/miahoffmannd), and [GitHub](https://github.com/miahoffmannd).
