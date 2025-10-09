@@ -19,6 +19,7 @@ layout: default
        alt="Switch It Up: From Switch Adapted Toys to Adaptive Gaming presentation." 
        style="border: 1px solid #ccc; border-radius: 8px;">
 </a>
+<div>
 **Mia Hoffman and Seong-Hee Westlake**
 
 **Talk Summary**
@@ -26,7 +27,7 @@ layout: default
 - Modify and position gaming controls for pediatric clients  
 - Select games that match a child's interests, cognition, and abilities  
 - Use free tools to create simple, customizable games that meet specific therapeutic goals
-
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
