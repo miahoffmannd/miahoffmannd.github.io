@@ -11,6 +11,25 @@ layout: default
 
 ## Presentation-Slides
 
+
+### RehabWeek 2025 - _Switch It Up: From Switch Adapted Toys to Adaptive Gaming_ 
+**Mia Hoffman and Seong-Hee Westlake**
+<a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">
+  <img class="wrapped" 
+       src="photos/SwitchItUp-Thumbnail.png" 
+       alt="Switch It Up: From Switch Adapted Toys to Adaptive Gaming presentation." 
+       width="400" 
+       style="border: 1px solid #ccc; border-radius: 8px;">
+</a>
+**Mia Hoffman and Seong-Hee Westlake**
+
+**Talk Summary**
+- Identify different types of switches and other controls  
+- Modify and position gaming controls for pediatric clients  
+- Select games that match a child's interests, cognition, and abilities  
+- Use free tools to create simple, customizable games that meet specific therapeutic goals
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
   <!-- Image Column -->
