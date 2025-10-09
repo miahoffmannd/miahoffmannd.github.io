@@ -19,27 +19,32 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 </embed>
 </object>
 
-<table>
-<tr>
-<td style="width:30%; vertical-align: top;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
-[<img src="photos/SwitchItUp-Thumbnail.png" alt="Switch It Up Slide Preview" style="width:100%; border:1px solid #ccc; border-radius:8px;">](pdfs/SwitchItUp-RESNA2025-Notes.pdf)
+  <!-- Image Column -->
+  <div style="flex: 1 1 30%; min-width: 200px;">
+    <a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">
+      <img src="images/SwitchItUp-Thumbnail.png" 
+           alt="Switch It Up Slide Preview" 
+           style="width: 100%; border: 1px solid #ccc; border-radius: 8px;">
+    </a>
+  </div>
 
-</td>
-<td style="width:70%; vertical-align: top;">
+  <!-- Text Column -->
+  <div style="flex: 1 1 65%; min-width: 250px;">
+    <h3>RehabWeek 2025 – <em>Switch It Up: From Switch Adapted Toys to Adaptive Gaming</em></h3>
+    <p><strong>Mia Hoffman and Seong-Hee Westlake</strong></p>
 
-### RehabWeek 2025 – *Switch It Up: From Switch Adapted Toys to Adaptive Gaming*  
-**Mia Hoffman and Seong-Hee Westlake**
+    <h4>Talk Summary</h4>
+    <ul>
+      <li>Identify different types of switches and other controls</li>
+      <li>Modify and position gaming controls for pediatric clients</li>
+      <li>Select games that match a child's interests, cognition, and abilities</li>
+      <li>Use free tools to create simple, customizable games that meet specific therapeutic goals</li>
+    </ul>
+  </div>
+</div>
 
-**Talk Summary**
-- Identify different types of switches and other controls  
-- Modify and position gaming controls for pediatric clients  
-- Select games that match a child's interests, cognition, and abilities  
-- Use free tools to create simple, customizable games that meet specific therapeutic goals
-
-</td>
-</tr>
-</table>
 
 
 
