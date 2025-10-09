@@ -10,14 +10,6 @@ layout: default
 - [Recommended media for disability & technology](#disability--technology-media)
 
 ## Presentation-Slides
-**RESNA 2025 - Switch It Up Slides**
-Thank you for attending our session at RehabWeek 2025. Please find a [copy of our slides here](pdfs/SwitchItUp-RESNA2025-Notes.pdf).
-
-<object data="pdfs/SwitchItUp-RESNA2025-Notes.pdf" type="application/pdf" width="700px" height="700px">
-  <embed src="pdfs/SwitchItUp-RESNA2025-Notes.pdf" type="application/pdf">
-  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">Download PDF</a>.</p>
-</embed>
-</object>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
