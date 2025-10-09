@@ -22,14 +22,16 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
   <!-- Image Column -->
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1 1 30%; min-width: 200px;">
     <a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">
-      <img src="photos/SwitchItUp-Thumbnail.png" alt="Switch It Up Slide Preview" style="width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 8px;">
+      <img src="images/SwitchItUp-Thumbnail.png" 
+           alt="Switch It Up Slide Preview" 
+           style="width: 100%; border: 1px solid #ccc; border-radius: 8px;">
     </a>
   </div>
 
   <!-- Text Column -->
-  <div style="flex: 2; min-width: 250px;">
+  <div style="flex: 1 1 65%; min-width: 250px;">
 
   ### RehabWeek 2025 – *Switch It Up: From Switch Adapted Toys to Adaptive Gaming*  
   **Mia Hoffman and Seong-Hee Westlake**
