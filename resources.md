@@ -6,10 +6,11 @@ layout: default
 
 ## Contents
 - [Presentation Slides](#presentation-slides)
-- [Files to 3D Print](#files-3dprint)
-- [Recommended media for disability & technology](#disability-reads)
+- [Files to 3D Print](#3d-printed-resources)
+- [Recommended media for disability & technology](#disability--technology-media)
 
-## RESNA 2025 - Switch It Up Slides
+## Presentation-Slides
+**RESNA 2025 - Switch It Up Slides**
 Thank you for attending our session at RehabWeek 2025. Please find a [copy of our slides here](pdfs/SwitchItUp-RESNA2025-Notes.pdf).
 
 <object data="pdfs/SwitchItUp-RESNA2025-Notes.pdf" type="application/pdf" width="700px" height="700px">
@@ -18,7 +19,31 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
 </embed>
 </object>
 
-## My Favorite Disability Studies Works Related to Assistive Technology
+---
+
+## 3D Printed Resources
+
+These 3D printed files were created through collaborations between **Mia Hoffman** and **Bethany Sloane** to support pediatric mobility device adaptations. All files are **free to use** and shared **without liability**. Please feel free to download, modify, and integrate them into your own work.
+
+
+<div class="table-responsive">
+
+<!-- Markdown table -->
+
+| Mobility device | Description | Creator | Download |
+| --------------  | ----------- | ------ | --------- |
+| GoBabyGo car |  Large ball to mount on steering wheel | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-knob-ROC.STL) |
+| GoBabyGo car |  Vertical rod to mount on steering wheel | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-rod-ROC.STL) |
+| Permobil Explorer Mini |  Bike handle bar joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/bike-handle-EM.STL) |
+| Permobil Explorer Mini | Bowl style joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/donut-climbing-jug-EM.STL) |
+| Permobil Explorer Mini | Vertical rod joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/vertical-pole-EM.STL) |
+| Radio Flyer Tricycle | Adaptive Pedals | OHSU Team | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/278c2f3498a71435e0374655da7fbd6fee650999/3dprints/RadioFlyer-AssistivePedal.zip) |
+
+</div>
+
+---
+
+## Disability & Technology Media
 Are you new to the world of assistive technology from a disability studies lens? Here are some of my favorite reads, watches, and listens to get you started on your journey!
 <div class="table-responsive">
 
@@ -46,23 +71,3 @@ Are you new to the world of assistive technology from a disability studies lens?
 | Young, Stella (April 2014). _I’m Not Your Inspiration, Thank You Very Much_ [TED Talk]. | [Link](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much) |
 </div>
 
-
-## 3D Printed Resources
-
-These 3D printed files were created through collaborations between **Mia Hoffman** and **Bethany Sloane** to support pediatric mobility device adaptations. All files are **free to use** and shared **without liability**. Please feel free to download, modify, and integrate them into your own work.
-
-
-<div class="table-responsive">
-
-<!-- Markdown table -->
-
-| Mobility device | Description | Creator | Download |
-| --------------  | ----------- | ------ | --------- |
-| GoBabyGo car |  Large ball to mount on steering wheel | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-knob-ROC.STL) |
-| GoBabyGo car |  Vertical rod to mount on steering wheel | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-rod-ROC.STL) |
-| Permobil Explorer Mini |  Bike handle bar joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/bike-handle-EM.STL) |
-| Permobil Explorer Mini | Bowl style joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/donut-climbing-jug-EM.STL) |
-| Permobil Explorer Mini | Vertical rod joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/vertical-pole-EM.STL) |
-| Radio Flyer Tricycle | Adaptive Pedals | OHSU Team | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/278c2f3498a71435e0374655da7fbd6fee650999/3dprints/RadioFlyer-AssistivePedal.zip) |
-
-</div>
