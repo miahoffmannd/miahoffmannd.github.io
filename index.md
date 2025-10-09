@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Mia Hoffman
 
 <img class="profile-picture" src="headshot-June-2022.jpg" alt = "Mia Hoffman" width = 30>
 
