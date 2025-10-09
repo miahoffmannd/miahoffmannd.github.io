@@ -13,12 +13,10 @@ layout: default
 
 
 ### RehabWeek 2025 - _Switch It Up: From Switch Adapted Toys to Adaptive Gaming_ 
-**Mia Hoffman and Seong-Hee Westlake**
 <a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">
-  <img class="wrapped" 
+  <img class="wrapped-left" 
        src="photos/SwitchItUp-Thumbnail.png" 
        alt="Switch It Up: From Switch Adapted Toys to Adaptive Gaming presentation." 
-       width="400" 
        style="border: 1px solid #ccc; border-radius: 8px;">
 </a>
 **Mia Hoffman and Seong-Hee Westlake**
