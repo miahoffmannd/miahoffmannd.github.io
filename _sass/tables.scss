@@ -1,34 +1,61 @@
+/* Base table styling */
 table {
     margin: 15px 0;
     border-collapse: collapse;
     width: 100%;
     padding: 0;
+    table-layout: auto;
 }
+
+/* Responsive wrapper */
+.table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Row styling */
 table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
     margin: 0;
     padding: 0;
 }
+
 table tr:nth-child(2n) {
     background-color: #f8f8f8;
 }
-table tr th {
+
+/* Header styling */
+table th {
     font-weight: bold;
     border: 1px solid #cccccc;
     text-align: left;
-    margin: 0;
     padding: 6px 13px;
 }
-table tr td {
+
+/* Cell styling */
+table td {
     border: 1px solid #cccccc;
     text-align: left;
-    margin: 0;
     padding: 6px 13px;
 }
-table tr th :first-child, table tr td :first-child {
+
+/* Remove margin from first/last child */
+table th:first-child,
+table td:first-child,
+table th:last-child,
+table td:last-child {
     margin: 0;
 }
-table tr th :last-child, table tr td :last-child {
-    margin: 0;
+
+/* Mobile-specific tweaks */
+@media screen and (max-width: 600px) {
+    table {
+        font-size: 14px;
+    }
+
+    table th,
+    table td {
+        padding: 8px;
+    }
 }
