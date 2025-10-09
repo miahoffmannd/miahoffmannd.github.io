@@ -9,7 +9,7 @@ layout: default
 - [Files to 3D Print](#3d-printed-resources)
 - [Recommended media for disability & technology](#disability--technology-media)
 
-## Presentation-Slides
+## Presentation Slides
 
 
 ### RehabWeek 2025 - _Switch It Up: From Switch Adapted Toys to Adaptive Gaming_ 
