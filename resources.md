@@ -24,7 +24,7 @@ Thank you for attending our session at RehabWeek 2025. Please find a [copy of ou
   <!-- Image Column -->
   <div style="flex: 1 1 30%; min-width: 200px;">
     <a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">
-      <img src="images/SwitchItUp-Thumbnail.png" 
+      <img src="photos/SwitchItUp-Thumbnail.png" 
            alt="Switch It Up Slide Preview" 
            style="width: 100%; border: 1px solid #ccc; border-radius: 8px;">
     </a>
