@@ -11,6 +11,24 @@ layout: default
 
 ## Presentation Slides
 
+### Ohio State 2025 - _Wheels, Walking, and On Between_ 
+<a href="pdfs/Hoffman_OhioStateTalk2025.pdf">
+  <img class="wrapped-left" 
+       src="photos/WheelsWalking_Talk.png" 
+       alt="Wheels, Walking, and In Between: An engineer's approach to examining mobility outcomes for young children with disabilities presentation." 
+       style="border: 1px solid #ccc; border-radius: 8px;">
+</a>
+<div>
+  <p><strong>Mia Hoffman</strong></p>
+
+  <p><strong>Talk Summary</strong></p>
+  <ul>
+    <li>Importance of self-iniated mobility</li>
+    <li>Evaluating device usability</li>
+    <li>How the physical environment impacts mobility device use</li>
+    <li>Measuring user engagement with mobility devices</li>
+  </ul>
+</div>
 
 ### RehabWeek 2025 - _Switch It Up: From Switch Adapted Toys to Adaptive Gaming_ 
 <a href="pdfs/SwitchItUp-RESNA2025-Notes.pdf">
@@ -30,7 +48,6 @@ layout: default
     <li>Use free tools to create simple, customizable games that meet specific therapeutic goals</li>
   </ul>
 </div>
-
 
 ---
 
