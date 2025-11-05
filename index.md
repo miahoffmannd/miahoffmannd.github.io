@@ -17,8 +17,8 @@ Mia Hoffman is a fifth-year PhD Candidate, co-advised in both the Departments of
 ## Featured Publications
 
 1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” Disability & Rehabilitation: Assistive Technology. 2024. [[link]](https://doi.org/10.1080/17483107.2023.2248218)
-2. Abuatiq, Reham A., **Mia E. Hoffman**, Alyssa L. Fiss, Julia Looper, Heather A. Feldner. "Exploring the Efficacy of a Dynamic Harness System on Gross Motor Development and Motivation for Infants With Down Syndrome: A Pilot Study." Pediatric Physical Therapy. 2024. [[link]](https://doi.org/10.1097/PEP.0000000000001130)
-3. **Hoffman, Mia E.**, Bethany Sloane, Anna Fragomeni, Lisa K. Kenyon, Sam W. Logan, Katherine M. Steele, Heather A. Feldner. “Exploring the World on Wheels: A Geospatial Comparison of Two Pediatric Mobility Devices.” RESNA 2023. [[link]](https://www.resna.org/sites/default/files/conference/2023/SeatingandMobility/99_Hoffman.html)
+2. Sloane, Bethany M., **Mia E. Hoffman**, Samuel W. Logan, Lisa K. Kenyon, Katherine M. Steele, Heather A. Feldner. “Comparison of three tracking methods to assess usage of two pediatric powered mobility devices for young children with cerebral palsy.” Assistive Technology.2025. [[link]](https://doi.org/10.1080/10400435.2025.2577390)
+3. Abuatiq, Reham A., **Mia E. Hoffman**, Alyssa L. Fiss, Julia Looper, Heather A. Feldner. "Exploring the Efficacy of a Dynamic Harness System on Gross Motor Development and Motivation for Infants With Down Syndrome: A Pilot Study." Pediatric Physical Therapy. 2024. [[link]](https://doi.org/10.1097/PEP.0000000000001130)
 
 ---
 ## Research Experience
