@@ -9,51 +9,57 @@ layout: default
 Mia Hoffman is a fifth-year PhD Candidate, co-advised in both the Departments of Mechanical Engineering and Rehabilitation Medicine at the University of Washington. She is also a student member of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](https://create.uw.edu/)) at the University of Washington. She received her Bachelor's degree in Mechanical Engineering from the University of Notre Dame with a minor in bioengineering. Mia's research is at the intersection of biomechanics, accessibility, and rehabilitation medicine and focuses on the design and translation of mobility and accessible play technologies for young children. Mia's goal in her work is to "just let kids be kids" exploring the world around them. 
 
 ## Research Interests
-1. On-time Mobility
-2. Accessible Play Technologies
-3. Environmental Accessibility
+1. On-time mobility
+2. Assistive technology
+3. Pediatric rehabilitation
 
 ---
 ## Featured Publications
 
 1. **Hoffman, Mia E.**, Katherine M. Steele, Jon E. Froehlich, Kyle N. Winfree, and Heather A. Feldner.  “Off to the Park: A Geospatial Investigation of Ride-on Car Usage.” Disability & Rehabilitation: Assistive Technology. 2024. [[link]](https://doi.org/10.1080/17483107.2023.2248218)
-2. Sloane, Bethany M., **Mia E. Hoffman**, Samuel W. Logan, Lisa K. Kenyon, Katherine M. Steele, Heather A. Feldner. “Comparison of three tracking methods to assess usage of two pediatric powered mobility devices for young children with cerebral palsy.” Assistive Technology.2025. [[link]](https://doi.org/10.1080/10400435.2025.2577390)
-3. Abuatiq, Reham A., **Mia E. Hoffman**, Alyssa L. Fiss, Julia Looper, Heather A. Feldner. "Exploring the Efficacy of a Dynamic Harness System on Gross Motor Development and Motivation for Infants With Down Syndrome: A Pilot Study." Pediatric Physical Therapy. 2024. [[link]](https://doi.org/10.1097/PEP.0000000000001130)
+2. Sloane, Bethany M. & **Mia E. Hoffman**, Samuel W. Logan, Lisa K. Kenyon, Katherine M. Steele, Heather A. Feldner. “Comparison of three tracking methods to assess usage of two pediatric powered mobility devices for young children with cerebral palsy.” Assistive Technology.2025. [[link]](https://doi.org/10.1080/10400435.2025.2577390)
+3. **Hoffman, Mia E**., Abuatiq, Reham A., Kate Bokowy, Alyssa L. Fiss, Julia Looper, Katherine M. Steele, Heather A. Feldner. "Up and down: analyzing physical activity and posture with wearable sensors during partial bodyweight supported play for young children with down syndrome." Developmental Neurorehabilitation. 2026. [[link]](https://doi.org/10.1080/17518423.2026.2711427)
 
 ---
 ## Research Experience
+**Pediatric rehabilitation & Upper extremity**
+_Pediatric and Rehabilitation Lab, The Ohio State University_
+- Advisor: [Jill Heathcock](https://hrs.osu.edu/faculty-and-staff/faculty-directory/heathcock-jill)
+- Years: 2026 - 2028
+
 **Biomechanics & Accessibility**
 _Neuromechanics and Mobility Lab, University of Washington_ | _IMPACT Collaboratory, University of Washington_
 - Co-advisors: [Kat M. Steele](https://www.me.washington.edu/facultyfinder/kat-m-steele) and [Heather A. Feldner](https://impactco.rehab.washington.edu/team/heather-feldner/)
-- Years: 2021 - Present
+- Years: 2021 - 2026
 
-**Medical Imaging & Solid Mechanics**
+**Medical imaging & Solid mechanics**
 _CoMMaND Lab, University of Notre Dame_
 - Advisor: [Maria A. Holland](https://engineering.nd.edu/faculty/maria-holland/)
 - Years: 2018 - 2021
 
-**Auditory Neuroscience & MRI**
+**Auditory neuroscience & MRI**
 _Auditory Perception and Cognition Lab, University of Minnesota_
 - Advisor: [Andrew Oxenham](https://med.umn.edu/bio/ent-faculty/andrew-oxenham)
 - Year: Summer 2019
 
-**Auditory Neuroscience & Signal Processing**
+**Auditory neuroscience & Signal processing**
 _Carney Lab, University of Rochester_
 - Advisor: [Laurel H. Carney](https://www.urmc.rochester.edu/people/27094648-laurel-h-carney)
 - Year: Summer 2018
 
-**Data-Driven Methods**
+**Data-driven statistical modelling**
 _Battelle Center for Mathematical Medicine, Nationwide Children's Hospital_
 - Advisor: [William C. Ray](https://pediatricsnationwide.org/2022/02/09/featured-researcher-will-ray/)
 - Year: Summer 2016
 
 ---
 ## Highlighted Honors
+- University of Washington Graduate School Medal Recipient [[link]](https://grad.uw.edu/2026-graduate-school-medal-award-winner/)
+- University of Washington, Husky 100 [[link]](https://www.washington.edu/husky100/)
 - RESNA Student Scientific Paper Award Winner, 2025 [[link]](https://www.resna.org/Events/2025-RESNA-Conference/2025-Posters-Scientific-and-Student-Scientific)
 - National Institute of Health INCLUDE TL1 Awardee, March 2024
 - RESNA Student Scientific Paper Award Winner 2023 [[link]](https://www.resna.org/About/RESNA-News/News-Archives/resna-2023-student-scientific-paper-competition-winners-and-runners-up-announced-1)
 - 2022 NextProf Pathfinder Workshop, Oct 2-4, 2022, San Diego, CA [[link]](https://jacobsschool.ucsd.edu/news/release/3524)
-- Honorable Mention for Accessibility, CREATE Accessible and Inclusive Textiles Hackfest 
 - Bioengineering Outstanding Undergraduate Researcher Award, University of Notre Dame
 - National Science Foundation Graduate Research Fellowship [[link]](https://engineering.nd.edu/news/engineering-students-receive-2021-nsf-graduate-research-fellowships/)
 - Glenna R. Joyce Merit Scholarship, University of Notre Dame [[link]](https://scholars.nd.edu/awards/list-of-awards/glenna-r-joyce-scholarship/)
