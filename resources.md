@@ -67,6 +67,9 @@ These 3D printed files were created through collaborations between **Mia Hoffman
 | Permobil Explorer Mini |  Bike handle bar joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/bike-handle-EM.STL) |
 | Permobil Explorer Mini | Bowl style joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/donut-climbing-jug-EM.STL) |
 | Permobil Explorer Mini | Vertical rod joystick topper | Kate Bokowy | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/vertical-pole-EM.STL) |
+| Permobil Explorer Mini | Yoke joystick topper | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/ExplorerMini-Yoke.STL) |
+| Permobil Explorer Mini | Arched joystick topper | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/ExplorerMini-DownwardHandle.stl) |
+| Permobil Explorer Mini | Traditional ball joystick topper | Mia Hoffman | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/ExplorerMini-Ball.stl) |
 | Radio Flyer Tricycle | Adaptive Pedals | OHSU Team | [Download STL](https://github.com/miahoffmannd/miahoffmannd.github.io/blob/278c2f3498a71435e0374655da7fbd6fee650999/3dprints/RadioFlyer-AssistivePedal.zip) |
 
 
