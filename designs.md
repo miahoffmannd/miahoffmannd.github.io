@@ -2,14 +2,14 @@
 
   <div class="print-card">
     <div class="print-viewer">
-      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/steering-knob-ROC.STL?height=300&width=350"></script>
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/steering-knob-ROC.STL"></script>
     </div>
     <div class="print-card-content">
       <h3>GoBabyGo Car</h3>
       <p><strong>Steering Wheel Ball</strong></p>
       <p>Large ball to mount on steering wheel.</p>
       <p><strong>Creator:</strong> Mia Hoffman</p>
-      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-knob-ROC.STL">
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/main/3dprints/steering-knob-ROC.STL">
         Download STL
       </a>
     </div>
