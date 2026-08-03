@@ -24,6 +24,12 @@
   height: 100%;
 }
 
+.stl-viewer canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 .print-card-content {
   padding: 1.5rem;
 }
