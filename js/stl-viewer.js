@@ -1,3 +1,5 @@
+console.log("STL viewer script loaded");
+
 import * as THREE from "https://unpkg.com/three@0.179.1/build/three.module.js";
 import { OrbitControls } from "https://unpkg.com/three@0.179.1/examples/jsm/controls/OrbitControls.js";
 import { STLLoader } from "https://unpkg.com/three@0.179.1/examples/jsm/loaders/STLLoader.js";
