@@ -5,7 +5,7 @@ import { STLLoader } from "https://unpkg.com/three@0.179.1/examples/jsm/loaders/
 console.log("STL viewer script loaded");
 
 document.querySelectorAll(".stl-viewer").forEach(container => {
-    console.log("Viewer:" container.dataset.model);
+    console.log("Viewer:", container.dataset.model);
 
     const modelPath = container.dataset.model;
 
