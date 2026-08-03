@@ -1,6 +1,6 @@
 .print-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
   margin: 2rem 0;
 }
@@ -56,4 +56,11 @@
 .print-button:hover {
   background: #00457a;
   text-decoration: none;
+}
+
+/* Responsive layout for smaller screens */
+@media (max-width: 700px) {
+  .print-grid {
+    grid-template-columns: 1fr;
+  }
 }
