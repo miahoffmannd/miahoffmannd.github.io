@@ -1,10 +1,11 @@
-console.log("STL viewer script loaded");
-
 import * as THREE from "https://unpkg.com/three@0.179.1/build/three.module.js";
 import { OrbitControls } from "https://unpkg.com/three@0.179.1/examples/jsm/controls/OrbitControls.js";
 import { STLLoader } from "https://unpkg.com/three@0.179.1/examples/jsm/loaders/STLLoader.js";
 
+console.log("STL viewer script loaded");
+
 document.querySelectorAll(".stl-viewer").forEach(container => {
+    console.log("Viewer:" container.dataset.model);
 
     const modelPath = container.dataset.model;
 
