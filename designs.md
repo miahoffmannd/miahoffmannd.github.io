@@ -1,0 +1,130 @@
+<div class="print-grid">
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/steering-knob-ROC.STL?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>GoBabyGo Car</h3>
+      <p><strong>Steering Wheel Ball</strong></p>
+      <p>Large ball to mount on steering wheel.</p>
+      <p><strong>Creator:</strong> Mia Hoffman</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-knob-ROC.STL">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/steering-rod-ROC.STL?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>GoBabyGo Car</h3>
+      <p><strong>Vertical Steering Rod</strong></p>
+      <p>Vertical rod attachment for steering wheel.</p>
+      <p><strong>Creator:</strong> Mia Hoffman</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/steering-rod-ROC.STL">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/bike-handle-EM.STL?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>Permobil Explorer Mini</h3>
+      <p><strong>Bike Handlebar Joystick Topper</strong></p>
+      <p>Alternative joystick topper designed from a bike handle shape.</p>
+      <p><strong>Creator:</strong> Kate Bokowy</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/bike-handle-EM.STL">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/donut-climbing-jug-EM.STL?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>Permobil Explorer Mini</h3>
+      <p><strong>Bowl Style Joystick Topper</strong></p>
+      <p>Bowl-shaped joystick topper for alternative hand positioning.</p>
+      <p><strong>Creator:</strong> Kate Bokowy</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/donut-climbing-jug-EM.STL">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/vertical-pole-EM.STL?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>Permobil Explorer Mini</h3>
+      <p><strong>Vertical Rod Joystick Topper</strong></p>
+      <p>Vertical joystick extension for improved reach and control.</p>
+      <p><strong>Creator:</strong> Kate Bokowy</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/vertical-pole-EM.STL">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/ExplorerMini-Yoke.STL?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>Permobil Explorer Mini</h3>
+      <p><strong>Yoke Joystick Topper</strong></p>
+      <p>Yoke-style joystick topper designed for alternative grasp patterns.</p>
+      <p><strong>Creator:</strong> Mia Hoffman</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/ExplorerMini-Yoke.STL">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/ExplorerMini-DownwardHandle.stl?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>Permobil Explorer Mini</h3>
+      <p><strong>Arched Joystick Topper</strong></p>
+      <p>Downward handle joystick topper.</p>
+      <p><strong>Creator:</strong> Mia Hoffman</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/ExplorerMini-DownwardHandle.stl">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+
+  <div class="print-card">
+    <div class="print-viewer">
+      <script src="https://embed.github.com/view/3d/miahoffmannd/miahoffmannd.github.io/main/3dprints/ExplorerMini-Ball.stl?height=300&width=350"></script>
+    </div>
+    <div class="print-card-content">
+      <h3>Permobil Explorer Mini</h3>
+      <p><strong>Traditional Ball Joystick Topper</strong></p>
+      <p>Traditional ball joystick replacement.</p>
+      <p><strong>Creator:</strong> Mia Hoffman</p>
+      <a class="print-button" href="https://github.com/miahoffmannd/miahoffmannd.github.io/blob/main/3dprints/ExplorerMini-Ball.stl">
+        Download STL
+      </a>
+    </div>
+  </div>
+
+</div>
