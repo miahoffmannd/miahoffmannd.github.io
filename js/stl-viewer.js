@@ -35,26 +35,38 @@ document.querySelectorAll(".stl-viewer").forEach(container => {
 
     const loader = new STLLoader();
 
-    loader.load(modelPath, geometry => {
+    loader.load(
+        modelPath,
 
-        geometry.center();
+        geometry => {
+            console.log("Loaded STL:", modelPath);
 
-        const material = new THREE.MeshStandardMaterial({
-            color: 0x5a8dee,
-            roughness: 0.6,
-            metalness: 0.15
-        });
+            geometry.center();
 
-        const mesh = new THREE.Mesh(geometry, material);
-        scene.add(mesh);
+            const material = new THREE.MeshStandardMaterial({
+                color: 0x5a8dee,
+                roughness: 0.6,
+                metalness: 0.15
+            });
 
-        const box = new THREE.Box3().setFromObject(mesh);
-        const size = box.getSize(new THREE.Vector3()).length();
+            const mesh = new THREE.Mesh(geometry, material);
+            scene.add(mesh);
 
-        camera.position.set(size, size * 0.8, size);
-        controls.target.set(0, 0, 0);
-        controls.update();
-    });
+            const box = new THREE.Box3().setFromObject(mesh);
+            const size = box.getSize(new THREE.Vector3()).length();
+
+            camera.position.set(size, size * 0.8, size);
+            controls.target.set(0, 0, 0);
+            controls.update();
+        },
+
+        undefined,
+
+        error => {
+            console.error("STL failed:", modelPath, error);
+        }
+    );
+
 
     function animate() {
         requestAnimationFrame(animate);
@@ -64,10 +76,14 @@ document.querySelectorAll(".stl-viewer").forEach(container => {
 
     animate();
 
+
     window.addEventListener("resize", () => {
         camera.aspect = container.clientWidth / container.clientHeight;
         camera.updateProjectionMatrix();
-        renderer.setSize(container.clientWidth, container.clientHeight);
+        renderer.setSize(
+            container.clientWidth,
+            container.clientHeight
+        );
     });
 
 });
